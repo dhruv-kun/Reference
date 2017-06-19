@@ -1,3 +1,6 @@
+## Reference
+This repo is a reference for important alogrithms and data structures which i will be learning and implementing. The code may not be accurate and may not have best possible running time.
+
 ### Important Algorithms
 1. Merge sort
 2. Quick sort
